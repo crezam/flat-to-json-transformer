@@ -2,7 +2,7 @@
 package processing
 
 import (
-	"./validation"
+	"github.com/crezam/flat-to-json-transformer/validation"
 	"strconv"
 	"strings"
 	"time"
