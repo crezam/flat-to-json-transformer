@@ -1,4 +1,6 @@
-# README #
+# A tool that transforms flat files into Json #
+
+[![Build Status](https://travis-ci.org/crezam/flat-to-json-transformer.svg?branch=master)](https://travis-ci.org/crezam/flat-to-json-transformer)
 
 ![Alt text](http://natebrennand.github.io/concurrency_and_golang/pics/gopher_head.png)
 
