@@ -2,7 +2,7 @@
 
 ![Alt text](http://natebrennand.github.io/concurrency_and_golang/pics/gopher_head.png)
 
-## Overview [![Circle CI](https://circleci.com/gh/crezam/flat-to-json-transformer/tree/master.svg?style=svg)](https://circleci.com/gh/crezam/flat-to-json-transformer/tree/master)
+## Overview 
 This is a standalone command line based, lightweight tool that will process flat files in a predefined format and will generate a JSON file into an indicated path
 
 ## Stack choice and architecture
