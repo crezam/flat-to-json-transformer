@@ -2,7 +2,7 @@
 package processing
 
 import (
-	"bitbucket.org/camilo_crespo/camilocrespo/validation"
+	"github.com/crezam/flat-to-json-transformer/validation"
 	"strconv"
 	"strings"
 	"time"

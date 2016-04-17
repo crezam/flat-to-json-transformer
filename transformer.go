@@ -1,11 +1,11 @@
 package main
 
 import (
-	"bitbucket.org/camilo_crespo/camilocrespo/processing"
 	"bufio"
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/crezam/flat-to-json-transformer"
 	"io"
 	"io/ioutil"
 	"os"
