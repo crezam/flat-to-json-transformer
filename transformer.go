@@ -1,11 +1,11 @@
 package main
 
 import (
-	"./processing"
 	"bufio"
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/crezam/flat-to-json-transformer/processing"
 	"io"
 	"io/ioutil"
 	"os"
