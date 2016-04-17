@@ -1,0 +1,88 @@
+{
+	"transactions": [
+		{
+			"id": "1",
+			"recorddate": "07/01/2015",
+			"cardnumber": "376776234591001",
+			"name": "John Wilson",
+			"amount": "445.55"
+		},
+		{
+			"id": "2",
+			"recorddate": "08/25/2015",
+			"cardnumber": "376734546541002",
+			"name": "Mary Lodgeson",
+			"amount": "76.89"
+		},
+		{
+			"id": "3",
+			"recorddate": "08/25/2015",
+			"cardnumber": "376734546541002",
+			"name": "Mary Lodgeson",
+			"amount": "12.89"
+		},
+		{
+			"id": "4",
+			"recorddate": "08/25/2015",
+			"cardnumber": "376734546541002",
+			"name": "Mary Lodgeson",
+			"amount": "159.08"
+		},
+		{
+			"id": "5",
+			"recorddate": "08/26/2015",
+			"cardnumber": "376711254391011",
+			"name": "William Johnson",
+			"amount": "0.55"
+		},
+		{
+			"id": "6",
+			"recorddate": "09/06/2015",
+			"cardnumber": "376767864191003",
+			"name": "Michael Davidson",
+			"amount": "302.45"
+		},
+		{
+			"id": "7",
+			"recorddate": "09/12/2015",
+			"cardnumber": "376788999891001",
+			"name": "Sal Fingers Franco",
+			"amount": "1987.67"
+		},
+		{
+			"id": "8",
+			"recorddate": "10/11/2015",
+			"cardnumber": "376788999891001",
+			"name": "Sal Fingers Franco",
+			"amount": "5624.92"
+		},
+		{
+			"id": "9",
+			"recorddate": "11/09/2015",
+			"cardnumber": "376776234591001",
+			"name": "John Wilson",
+			"amount": "12.84"
+		},
+		{
+			"id": "10",
+			"recorddate": "12/24/2015",
+			"cardnumber": "376767864191003",
+			"name": "Michael Davidson",
+			"amount": "1.95"
+		},
+		{
+			"id": "11",
+			"recorddate": "12/24/2015",
+			"cardnumber": "376776234591001",
+			"name": "John Wilson",
+			"amount": "100.00"
+		},
+		{
+			"id": "12",
+			"recorddate": "12/24/2015",
+			"cardnumber": "376776234591001",
+			"name": "John Wilson",
+			"amount": "63.40"
+		}
+	]
+}
