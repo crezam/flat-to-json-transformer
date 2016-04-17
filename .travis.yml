@@ -3,4 +3,4 @@ language: go
 go:
   - 1.6
 
-script: go test -v
+script: go get github.com/crezam/flat-to-json-transformer/processing && go test -v
